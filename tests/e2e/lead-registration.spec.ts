@@ -1,6 +1,5 @@
 // tests/lead-registration.spec.ts
 import { test, expect } from '../fixtures/base-test'; 
-// Исправлено: чистый импорт интерфейса TestData из вашего генератора
 import { TestData } from '../utils/data-generator';
 
 // ========================================================
